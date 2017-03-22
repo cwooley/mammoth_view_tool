@@ -20,9 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-'''ruby
+```ruby
 MammothViewTool::Renderer.copyright 'Charles Wooley', 'All Rights Reserved'
-'''
+```
 
 ## Development
 
